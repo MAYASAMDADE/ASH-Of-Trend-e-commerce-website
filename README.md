@@ -102,3 +102,7 @@ Thank you for visiting the ASH Of Trend repository! We hope you enjoy exploring 
 ![Home Page (2)](https://github.com/user-attachments/assets/052a39d4-e64a-4a01-bf93-61d6d5c5a9ad)
 
 
+[project report MAYA.pdf](https://github.com/user-attachments/files/18546836/project.report.MAYA.pdf)
+
+
+
