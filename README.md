@@ -1,7 +1,3 @@
-Here is the content, formatted and ready to copy-paste directly into your README file:
-
----
-
 # ASH Of Trend
 
 Welcome to the official repository for **ASH Of Trend**, short for **Aesthetic Styling Hub**! This e-commerce website is designed to bring trendy and aesthetic accessories right to your fingertips. From elegant earrings to stylish jewelry, ASH Of Trend aims to redefine the way you accessorize.
@@ -102,4 +98,7 @@ We welcome contributions! To get started:
 
 
 Thank you for visiting the ASH Of Trend repository! We hope you enjoy exploring and contributing to our project. ✨
+
+![Home Page (2)](https://github.com/user-attachments/assets/052a39d4-e64a-4a01-bf93-61d6d5c5a9ad)
+
 
